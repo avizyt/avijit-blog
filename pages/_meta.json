@@ -1,15 +1,17 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
-  "about": {
-    "title": "About",
-    "type": "page"
-  },
-  "contact": {
-    "title": "Contact ↗",
-    "type": "page",
-    "href": "https://twitter.com/shuding_",
-    "newWindow": true
-  }
+    "index": "Introduction",
+    "numpy": "Learn Numpy",
+    "fundamental": "Fundamental Numpy",
+    "intermediate": "Intermediate Numpy",
+    "advanced": "Advanced Numpy",
+    "about": {
+        "title": "About",
+        "type": "page"
+    },
+    "contact": {
+        "title": "Contact ↗",
+        "type": "page",
+        "href": "https://twitter.com/avizyt",
+        "newWindow": true
+    }
 }
