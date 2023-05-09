@@ -1,9 +1,16 @@
 {
-    "index": "Introduction",
-    "numpy": "Learn Numpy",
-    "fundamental": "Fundamental Numpy",
-    "intermediate": "Intermediate Numpy",
-    "advanced": "Advanced Numpy",
+    "index": {
+        "title": "Home",
+        "type": "page"
+    },
+    "numpy": {
+        "title": "Learn Numpy",
+        "type": "page"
+    },
+    "plotly": {
+        "title": "Learn Plotly",
+        "type": "page"
+    },
     "about": {
         "title": "About",
         "type": "page"
